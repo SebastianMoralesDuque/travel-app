@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caché de entorno virtual
+.env/
+env/
+venv/
+ENV/
+
+# Archivos de configuración
+*.sqlite3
+*.pyc
+*.bak
+*.swp
+
+# Archivos de configuración locales
+/local_settings.py
+
+# Dependencias de Python
+/lib/
+/lib64/
+/venv/
+/pip-selfcheck.json
+
+# Archivos generados por el sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de registro y salida
+/logs/
+*.log
